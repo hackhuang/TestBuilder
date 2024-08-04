@@ -1,0 +1,1 @@
+{"appVersion":1,"subVersion":1,"forceUpdate":0,"resVersion":10,"version":"1.1.0.1.1","uploadURL":"","remoteURL":"http://192.168.1.171/HFS-Test/CheckUpdate/","backupURL":"http://192.168.1.171/HFS-Test/CheckUpdate/","appURL":"","isAssetSplit":false}

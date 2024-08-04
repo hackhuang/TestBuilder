@@ -1,0 +1,7 @@
+--MainAssert^10^1.1.0.1.1^1
+windows.manifest^48323f37986ba0a79967213d502f58af^303
+example/group_test.ab^b62c4833915eb32608b6b59da5b7af0e^40543
+example/group_test.ab.manifest^3880d22441b89d9ef65402d9b6420382^674
+example/filter_test/test.mat.manifest^65ad6125ca2f68d026c369b70e33dc04^399
+example/filter_test/test.prefab.manifest^a40412f072f5cea518106265632044a7^628
+--GameAssert^10^1.1.0.1.1^1
